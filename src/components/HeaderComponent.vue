@@ -13,10 +13,6 @@ function closeMenu() {
   isOpen.value = false;
 }
 
-defineProps({
-  msg: String,
-})
-
 </script>
 
 <template>
