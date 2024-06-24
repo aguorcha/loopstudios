@@ -18,6 +18,9 @@ export default {
       },
       margin: {
         '-12': '-12%',
+      },
+      letterSpacing: {
+        extra: '0.3rem',
       }
     },
   },
