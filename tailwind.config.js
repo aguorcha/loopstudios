@@ -15,6 +15,9 @@ export default {
         'black': 'hsl(0, 0%, 0%)',
         'dark-grey': 'hsl(0, 0%, 55%)',
         'very-dark-grey': 'hsl(0, 0%, 41%)'
+      },
+      margin: {
+        '-12': '-12%',
       }
     },
   },
