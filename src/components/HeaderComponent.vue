@@ -44,10 +44,10 @@ function closeMenu() {
 
 <style scoped>
 .bg-header-image-mobile {
-  background-image: url('../src/assets/images/mobile/image-hero.jpg');
+  background-image: url('https://i.postimg.cc/W3tnZrRT/image-hero.jpg');
 }
 
 .bg-header-image-desktop {
-  background-image: url('../src/assets/images/desktop/image-hero.jpg');
+  background-image: url('https://i.postimg.cc/HWVZ8GHX/image-hero.jpg');
 }
 </style>
